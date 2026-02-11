@@ -2,6 +2,10 @@
 
 A collection of standalone, AI-powered workflow scripts and deployable functions built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Each workflow lives in its own directory under `workflows/` and can run locally or be deployed to [Modal](https://modal.com) as a serverless endpoint.
 
+[![Agentic Workflows](./thumbnail.png)](https://youtu.be/mNueCS2wVvI)
+
+[Watch the full video on YouTube](https://youtu.be/mNueCS2wVvI)
+
 The project is designed to be developed interactively with Claude Code using **skills** — reusable prompt templates that handle scaffolding, building, and managing workflows so you can focus on the logic.
 
 ## Project Structure
@@ -102,3 +106,7 @@ Secrets are never committed. For Modal deployments, use Modal secrets.
 
 - [CATALOG.md](CATALOG.md) — Status of all workflows
 - [CLAUDE.md](CLAUDE.md) — Development conventions
+
+## Join the Community
+
+If you want to connect with hundreds of builders creating production-grade AI and RAG systems, join us in [The AI Automators community](https://www.theaiautomators.com/). Share your progress, get help when you're stuck, and see what others are building.
