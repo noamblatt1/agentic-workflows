@@ -6,7 +6,7 @@ Central index of all workflows in this project. Updated by `/build` on completio
 
 | Workflow | Status | Complexity | Deploy Target | Modal Mode | Args | Description |
 |----------|--------|------------|---------------|------------|------|-------------|
-| hello-world | Deployed | Simple | Local + Modal | Webhook | `<topic>` — subject to generate a sentence about (optional; prompts interactively if omitted) | Accepts a topic and calls OpenAI to generate a one-sentence response |
+
 
 ### Deploy Target Key
 - **Local** — Runs locally only (`python main.py`)
